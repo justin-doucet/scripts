@@ -1,4 +1,4 @@
 /Mother/ {
-	s/Mother/Mom/g
-	s/Father/Dad/g
+	s/Mother/MotherDearest/g
+	s/Father/FatherDearest/g
 }
